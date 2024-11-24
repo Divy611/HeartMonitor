@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "11068413420",
+    "project_id": "heartmonitor-2d3c1",
+    "storage_bucket": "heartmonitor-2d3c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11068413420:android:7661613f736bc5616e1cc9",
+        "android_client_info": {
+          "package_name": "com.heartmonitor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL9ft-bAZ8SOi7RB7eSdgDSJf1ssC54V4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
